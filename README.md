@@ -25,6 +25,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### SIEM
+<div>
+  <img src="https://img.shields.io/badge/-Wazuh-7E57C2?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### Scripting & Automation
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 
