@@ -26,11 +26,14 @@ To secure an entry-level SOC Analyst role. Passionate about threat detection, lo
 ### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-7E57C2?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Scripting & Automation
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
 
 ## Certifications
