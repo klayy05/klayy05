@@ -42,4 +42,4 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 </div>
 
 ## Projects
-- SOC Home Lab Setup
+- [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab) – Built a detection lab using Wazuh Cloud, Ubuntu endpoint, and Kali Linux for attack simulation.  
