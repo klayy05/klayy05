@@ -12,7 +12,7 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM configuration, Log forwarding, Network segmentation, Alert rules.                            |  SOC Home Lab Setup          |
+| SIEM configuration, Log forwarding, Network segmentation, Alert rules.                            |  [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab)          |
 
 
 ## Tools
