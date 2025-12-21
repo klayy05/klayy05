@@ -12,8 +12,8 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM configuration, Log analysis, Threat detection                            |  [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab)          |
-
+| SIEM configuration, Log analysis, threat detection                            |  [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab)          |
+| Privilege escalation monitoring, Linux authentication log analysis         |  [Linux-Auth-Log-Analysis](https://github.com/klayy05/Linux-Log-Analysis)  |
 
 ## Tools
 
@@ -39,7 +39,9 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
-- [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab) – Built a detection lab using Wazuh Cloud, Ubuntu endpoint, and Kali Linux for attack simulation.  
+- [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab) – Built a detection lab using Wazuh Cloud, Ubuntu endpoint, and Kali Linux for attack simulation.
+- [Linux-Auth-Log-Analysis](https://github.com/klayy05/Linux-Log-Analysis) - Performed hands-on Linux authentication and privilege escalation log analysis using native system tools.
