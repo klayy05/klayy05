@@ -1,7 +1,7 @@
 # Hello, I'm Philip
 <a href="https://linkedin.com/in/philip-obese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m an aspiring Cybersecurity Professional in training, passionate about detecting and responding to cyber threats. I build hands-on labs to simulate real-world attack and defense scenarios. My learning journey includes completing hands-on labs on TryHackMe and structured defensive security training with Security Blue Team.
+I’m an aspiring Cybersecurity Professional in training, passionate about detecting and responding to cyber threats. I build hands-on labs to simulate real-world attack and defense scenarios. My learning journey includes completing hands-on labs on TryHackMe, LetsDefend and structured defensive security training with Security Blue Team.
 
 I focus on skills such as log analysis, threat hunting, and incident response, while continuously developing my understanding of security operations and SIEM tools. My goal is to apply this knowledge in a professional SOC environment and contribute to keeping organizations secure.
 
