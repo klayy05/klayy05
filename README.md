@@ -12,8 +12,10 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM configuration, Log analysis, threat detection                            |  [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab)          |
-| Privilege escalation monitoring, Linux authentication log analysis         |  [Linux-Auth-Log-Analysis](https://github.com/klayy05/Linux-Log-Analysis)  |
+| SIEM configuration, Log analysis, Threat detection                            |  [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab)          |
+| Privilege escalation monitoring, Linux authentication Log analysis         |  [Linux-Auth-Log-Analysis](https://github.com/klayy05/Linux-Log-Analysis)  |
+| Vulnerability assessment, Penetration testing and Security reporting       |  [Web-Application-Penetration-Testing-OWASP-Juice-Shop-](https://github.com/klayy05/Web-Application-Penetration-Testing-OWASP-Juice-Shop-)  |
+
 
 ## Tools
 
@@ -51,3 +53,4 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 ## Projects
 - [SOC Home Lab Setup](https://github.com/klayy05/SOC-Home-Lab) – Built a detection lab using Wazuh Cloud, Ubuntu endpoint, and Kali Linux for attack simulation.
 - [Linux-Auth-Log-Analysis](https://github.com/klayy05/Linux-Log-Analysis) - Performed hands-on Linux authentication and privilege escalation log analysis using native system tools.
+- [Web-Application-Penetration-Testing-OWASP-Juice-Shop-](https://github.com/klayy05/Web-Application-Penetration-Testing-OWASP-Juice-Shop-) - Performed automated and manual security testing on OWASP Juice Shop to identify and analyze common web application vulnerabilities.
