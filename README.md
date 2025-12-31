@@ -23,6 +23,7 @@ To secure an entry-level SOC Analyst role then eventually grow into a Security E
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ### Endpoint
